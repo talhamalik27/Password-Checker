@@ -21,4 +21,4 @@ The goal of this project is to build a tool that checks how strong a password is
 ```bash
 git clone https://github.com/yourusername/password-checker.git
 cd password-checker
-python password_checker.py
+python passwordchecker.py
